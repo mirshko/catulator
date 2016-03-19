@@ -9,7 +9,15 @@
         }
     },
     "icons": {
-        "16": "calculator-16.png",
-        "128": "calculator-128.png"
+        "16": "icon-16.png",
+        "32": "icon-32.png",
+        "48": "icon-48.png",
+        "128": "icon-128.png",
+        "192": "icon-192.png",
+        "384": "icon-384.png",
+        "576": "icon-576.png",
+        "768": "icon-768.png",
+        "960": "icon-960.png",
+        "1152": "icon-1152.png"
     }
 }
